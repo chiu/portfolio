@@ -9,7 +9,7 @@ https://github.com/chiu/accounting-ml-project
 
 
 ## Predicting airplane departure delays with machine learning:  
-https://github.com/chiu/departure-delay-project/blob/master/handin_v4/vincent_chiu_stat_652_project_report_v3.pdf  
+https://github.com/chiu/departure-delay-project/blob/master/report/project_report.pdf  
 
 
 ## Benchmark of various machine learning models for predicting housing prices:  
