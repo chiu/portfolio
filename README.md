@@ -1,7 +1,8 @@
 # Portfolio 
 
-## Notable projects include:
-Predicting fraudulent financial statements using machine learning:  
+## Notable projects include:  
+
+## Predicting fraudulent financial statements using machine learning:  
 https://github.com/chiu/accounting-ml-project
 
 ## Predicting airplane departure delays with machine learning:  
