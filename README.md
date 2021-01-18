@@ -20,6 +20,8 @@ https://github.com/chiu/machine-learning-project/blob/master/comparison-supervis
 Implemented visualization of decision trees using d3.js:   
 https://github.com/chiu/decision-tree-visualizer/blob/master/visualization_report_chiu.pdf  
 
+### Demo 
+https://codepen.io/vchiu/project/full/DObPvr  
 
 ### video:  
 https://www.youtube.com/watch?v=iDN832_sIE0&feature=youtu.be  
